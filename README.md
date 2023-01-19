@@ -1,8 +1,8 @@
 # Auto Matchmaking Mod
-**A mod for vanilla Titanfall 2 that makes matchmaking a lot easier by fixing the issue of disconnects while matchmaking!**
+**A mod for Titanfall 2 that makes matchmaking a lot easier!**
 
 ## How To Install And Setup The Auto Matchmaking Mod
-You can install the mod by downloading the `AutoMatchmakingMod_Installer.bat` and running it in your Titanfall 2 install folder. After that just launch `NorthstarLauncher.exe` and you're good to go!
+You can install the mod by downloading the `AutoMatchmakingMod_Installer.bat` from the latest release and running it in your Titanfall 2 installalation location. This can be found through Steam/Origin/EA Desktop. After that just launch `NorthstarLauncher.exe` and you're good to go!
 
 If you need any extra help getting the mod working then you can join the Titanfall 2 AMM Discord server [here](https://discord.gg/x3cMBdcMu8).
 
@@ -15,4 +15,4 @@ Once you have the Auto Matchmaking Mod installed, it will automatically reconnec
 
 ## ConVars
 - `am_enabled` - This ConVar is just whether to automate matchmaking or not. If it's set to 1 then when you get reconnected the mod will restart matchmaking for you if you were matchmaking when you got reconnected.
-- `am_matchmaking_running` - This ConVar is just how the mod is able to remember if you were matchmaking or not when you get reconnected to the multiplayer matchmaking menu. The mod **should** handle changing this itself so you shouldn't ever need to change it yourself.
+- `am_matchmaking` - This ConVar is just how the mod is able to remember if you were matchmaking or not when you get reconnected to the multiplayer matchmaking menu. The mod **should** handle changing this itself so you shouldn't ever need to change it yourself.
